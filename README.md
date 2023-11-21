@@ -12,6 +12,8 @@ Instructions:
 - Either copy suggestLocation function into main project file or import from `receiver.py`
 - Run `sender.py`
 
+Communication contract
+
 The following code shows an example call to the microservice to request (and receive) data
 ```
 import time
